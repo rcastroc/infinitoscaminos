@@ -1,6 +1,7 @@
-# 1. Contexto
+# 2. Contexto
 
-## 1.1 La Complejidad de la Vida
+
+## 2.1 La Complejidad de la Vida
 
 La vida nunca ha sido fácil y nunca lo será. Esto se explica por un hecho sencillo y que se puede resumir en cuatro simples palabras: La vida es compleja. Esto no es nada nuevo para nadie y, sin embargo, siempre se nos olvida. Vamos por la vida y conocemos a alguien que tiene mucho dinero y pensamos “a él todo le debe resultar muy sencillo”. Esta afirmación la hacemos después de ver el magnífico auto que tiene, o la inmensa casa (o mansión) que posee, y de alguna forma nos apoyamos  de esas superficiales posesiones para explicar la simplicidad de la vida (su vida). Pero insisto, la vida es compleja. Y es compleja porque es imposible mirar unos pocos aspectos de la vida de una persona para calificar su vida de “fácil o difícil”. No podemos simplificar tanto la vida como para creer que una persona que es multimillonaria lo tiene todo (y todo fácil) y una persona pobre no tiene nada (y nada fácil).
 

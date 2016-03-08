@@ -1,7 +1,7 @@
-# 3. Fundamentos de los Infinitos Caminos
+# 4. Fundamentos de los Infinitos Caminos
 
 
-## 3.4 La Intuición
+## 4.4 La Intuición
 
 Encontrar caminos en muchas ocasiones implicará la necesidad de hacer un esfuerzo consciente para descubrirlos. Sin embargo, en otras tantas oportunidades, la mejor opción será simplemente dejarnos llevar por la intuición. En este caso, entendemos la intuición como la sensación interna inexplicable que nos invita a confiar en un camino en particular. Muchas veces no logramos fundamentar la razón por la que un camino en particular nos resulta más atractiva. Simplemente no podemos decirlo con palabras, pero podemos sentirlo. A eso le llamamos intuición. 
 

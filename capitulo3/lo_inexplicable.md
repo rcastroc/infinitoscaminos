@@ -1,7 +1,7 @@
-# 2. Un mundo de posibilidades
+# 3. Un mundo de posibilidades
 
 
-## 2.2 Lo inexplicable
+## 3.2 Lo inexplicable
 
 Antes de continuar, le contaré tres historias personales que por lo menos son curiosas.
 

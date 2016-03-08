@@ -1,7 +1,7 @@
-# 2. Un mundo de posibilidades
+# 3. Un mundo de posibilidades
 
 
-## 2.3 Explicitismo
+## 3.3 Explicitismo
 
 Primero que todo debo reconocer que no estoy seguro si existe la palabra explicitismo, pero de todas formas no me importa mucho si no existe. En todo caso, si no existe, es un problema de la Real Academia Española y no un problema mio.
 

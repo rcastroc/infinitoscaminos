@@ -1,7 +1,7 @@
-# 1. Contexto
+# 2. Contexto
 
 
-## 1.2 Sociedad de Éxito 
+## 2.2 Sociedad de Éxito 
 
 Siguiendo con la premisa de que la vida es compleja, sin duda un rol crucial de esta afirmación lo cumple la sociedad. Aunque en realidad no debería hablar sobre el rol que la sociedad cumple en la complejización de nuestras vidas, sino que en la complejización que le permitimos a la sociedad cumplir en nuestras vidas. Porque la verdad es que no todos actuamos de la misma forma respecto a la sociedad, y al final depende estrictamente de nosotros el rol que le permitiremos cumplir en nuestras vidas.
 

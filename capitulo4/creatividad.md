@@ -1,7 +1,7 @@
-# 3. Fundamentos de los Infinitos Caminos
+# 4. Fundamentos de los Infinitos Caminos
 
 
-## 3.3 La Creatividad
+## 4.3 La Creatividad
 
 Sin duda uno de los elementos más importantes a la hora de abrir y descubrir nuevos caminos es la creatividad. Cuando hablo de la creatividad no me refiero necesariamente a esa capacidad innata que parecen tener algunas personas que las hace ser o no ser creativas. De aquí que muchas personas ante el tema de la creatividad se catalogan como creativos o no creativos. Mi concepto de la creatividad se basa más bien en un esfuerzo consciente por lograr nuevos caminos mediante la búsqueda de caminos donde no parece existir nada. Por lo tanto, la creatividad se basa más que cualquier otra cosa en el entrenamiento consciente de la mente de lograr ser capaz de ignorar las soluciones iniciales que vienen a la mente, e intentar ir más allá creando conexiones que a primera vista no parecen tener sentido.
 

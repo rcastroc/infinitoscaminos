@@ -1,6 +1,7 @@
-# 1. Contexto
+# 2. Contexto
 
-## 1.3 Autenticidad
+
+## 2.3 Autenticidad
 
 En el mundo del emprendimiento existe un libro muy famoso llamado “Lean Startup” escrito por Eric Ries. El fundamento del libro se basa en entregar respuesta a las siguientes preguntas: ¿Qué sacamos con hacer un producto que nadie quiere?¿Qué importa si ese producto tiene el mejor diseño, las mejores características, el mejor valor, si al final, nadie necesita ese producto?
 

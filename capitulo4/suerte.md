@@ -1,7 +1,7 @@
-# 3. Fundamentos de los Infinitos Caminos
+# 4. Fundamentos de los Infinitos Caminos
 
 
-## 3.5 Y cuando ya no quedan esperanzas.. (La Suerte)
+## 4.5 Y cuando ya no quedan esperanzas.. (La Suerte)
 
 Y llegará el momento en que se convierta en la persona con más paciencia en el mundo y con más perseverancia, y nada. Y llegará el momento en que se convierta en la persona más optimista del universo, y nada. LLegará también el día en que se convierta en la persona más creativa, abriendo un sin fin de caminos posibles sin resultados. LLegará el día en que haya actuado según lo que su intuición le decía, según lo que su interior quería que hiciera, y nada. Aún en esos momentos en que se haya intentado todo, o nada, quedan esperanzas.
 

@@ -1,7 +1,7 @@
-# 3. Fundamentos de los Infinitos Caminos
+# 4. Fundamentos de los Infinitos Caminos
 
 
-## 3.2 Optimismo
+## 4.2 Optimismo
 
 Tenía la duda si esta sección debía llamarse optimismo o fe. Quizás se podría haber llamado optimismo y fe. Al final me decidí sólo por optimismo, aunque puede considerar el optimismo como un acto de fe. El optimismo es otro elemento fundamental a la hora de encontrar infinitos caminos. Al igual que la paciencia y la perseverancia, el optimismo está muy relacionado con la confianza que tenemos sobre nosotros. Es gracias al optimismo que somos capaces de tener una actitud adecuada durante el tiempo en que somos pacientes. No podemos tener paciencia si nos encontramos en un estado de pesimismo. El pesimismo lo único que logrará en nosotros es ver que todo va mal, que no vamos a ningún lado y que estamos perdiendo el tiempo siguiendo nuestros sueños. El pesimismo nos cegará y no nos dejará ver nuevos caminos o, si vemos otros caminos, seguramente tendremos la sensación de ir directo al fracaso (sin siquiera haberlo intentado). Por eso es fundamental el optimismo. Si va a intentar incursionar a través de un camino y no se siente optimista respecto al camino, mejor tómese un tiempo para pensar y espere que las malas energías se vayan. 
 

@@ -1,6 +1,7 @@
-# 2. Un mundo de posibilidades
+# 3. Un mundo de posibilidades
 
-## 2.1 La Teoría
+
+## 3.1 La Teoría
 
 En el libro “El cisne negro” de Nassim Taleb (libro que recomiendo a ojos cerrados y del cual reconozco no haber entendido todo lo que explica), se propone un ejercicio mental muy interesante el cual reproduzco aquí y el cual adaptaré para mis intereses. Imagine un cubo de hielo y luego, imagine la forma del charco de agua que ese cubo dejará una vez que se derrita (tómese su tiempo). Ahora bien, en este caso el cubo lo representa a usted como individuo en su estado actual como resultado de sus decisiones pasadas. El charco de agua representa sus metas, sus sueños y el estado futuro al que desea llegar. La transición que ocurre entre el cubo de hielo y la forma del charco resultante es el proceso de decisiones que nos llevan a lograr el charco de agua. En este caso supongo que todos los lectores imaginaron el mismo proceso y la misma forma resultante (creo que yo también imaginé el mismo proceso de transición y la misma forma resultante). Este primer ejercicio mental que va “hacia delante” tiene los mismos efectos que las situaciones que describía al principio del capítulo sobre simplificar la vida a partir de un hecho en particular. De hecho, lo simplificamos tanto que todos somos capaces de imaginar lo mismo sin conocer exactamente el proceso y lo que es más importante, sin conocer al individuo ni su contexto. Pero ahora imaginemos que tenemos un charco y queremos saber qué forma tenía el hielo que generó ese charco. Quizás lo primero que se nos venga a la cabeza es decir que era un cubo, pero en realidad podría tener cualquier forma para formar el mismo charco. Según la simbología que habíamos definido anteriormente, esto significa que partimos de nuestros sueños y nuestras metas (el charco) pero que en realidad para haber llegado hasta ahí existen múltiples (infinitas) formas.
 

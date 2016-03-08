@@ -1,7 +1,7 @@
-# 3. Fundamentos de los Infinitos Caminos
+# 4. Fundamentos de los Infinitos Caminos
 
 
-## 3.1 Paciencia y Perseverancia
+## 4.1 Paciencia y Perseverancia
 
 Quise empezar con este elemento porque a mi parecer es el más difuso en cuanto al peso que tiene en nuestra vida y, sin embargo, es al elemento que le podemos atribuir nuestras mayores victorias. 
 

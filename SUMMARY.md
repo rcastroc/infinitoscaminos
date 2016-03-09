@@ -16,3 +16,5 @@
 	* [Creatividad](capitulo4/creatividad.md)
 	* [Intuición](capitulo4/intuicion.md)
 	* [Y cuando ya no quedan esperanzas.. (La Suerte)](capitulo4/suerte.md)
+* [Aplicación](capitulo5/introduccion.md)
+	* [Filosofía de vida](capitulo5/filosofia_de_vida.md)

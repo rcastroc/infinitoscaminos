@@ -18,3 +18,6 @@
 	* [Y cuando ya no quedan esperanzas.. (La Suerte)](capitulo4/suerte.md)
 * [Aplicación](capitulo5/introduccion.md)
 	* [Filosofía de vida](capitulo5/filosofia_de_vida.md)
+	* [La realidad](capitulo5/la_realidad.md)
+	* [Lo imposible](capitulo5/lo_imposible.md)
+* [Conclusiones](conclusiones.md)
